@@ -1,0 +1,24 @@
+[
+	{ "x": 0, "y": 0, "width": 25, "height": 750, "fillStyle": "#00f" },
+	{ "x": 100, "y": 400, "width": 200, "height": 50 },
+	{ "x": 100, "y": 650, "width": 200, "height": 50 },
+	{ "x": 400, "y": 500, "width": 100, "height": 100 },
+	{ "x": 425, "y": 100, "width": 50, "height": 200, "fillStyle": "#f00",
+		"platform": {
+			"top": -100, "bottom": 100, "vertical_speed": 10}
+		},
+	{ "x": 600, "y": 400, "width": 200, "height": 50, "fillStyle": "#f00",
+		"platform": {
+			"left": -100, "right": 100, "horizontal_speed": 20 }
+		},
+	{ "x": 900, "y": 500, "width": 100, "height": 100 },
+	{ "x": 600, "y": 650, "width": 200, "height": 50 },
+	{ "x": 925, "y": 100, "width": 50, "height": 200, "fillStyle": "#f00",
+		"platform": {
+			"top": -100, "bottom": 100, "vertical_speed": 10}
+		},
+	{ "x": 1100, "y": 400, "width": 200, "height": 50 },
+	{ "x": 1100, "y": 650, "width": 200, "height": 50 },
+	{ "x": 1375, "y": 0, "width": 25, "height": 100, "fillStyle": "#00f" },
+	{ "x": 1375, "y": 300, "width": 25, "height": 450, "fillStyle": "#00f" }
+]
