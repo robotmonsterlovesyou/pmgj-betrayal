@@ -49,6 +49,8 @@ var BETRAYAL = {
 
 		if (BETRAYAL.active_keys.indexOf(e.keyCode) === -1) {
 
+			e.preventDefault();
+
 			BETRAYAL.active_keys.push(e.keyCode);
 
 		}
